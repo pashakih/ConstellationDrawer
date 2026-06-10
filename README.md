@@ -22,4 +22,4 @@ If you want to run or modify the raw code:
 1. Clone the repository:
    ```bash
    git clone https://github.com/pashakih/ConstellationDrawer.git
-   cd constellation-drawer
+   cd ConstellationDrawer
