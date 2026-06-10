@@ -12,7 +12,7 @@ Easily input your coordinates and observation time, connect stars to design cust
 * **Zero Cost & Open Source:** Free to use, modify, and distribute under the MIT License.
 
 ## How to Install (No Python Required!)
-1. Go to the [Releases]((https://github.com/pashakih/ConstellationDrawer/releases/tag/v1.0.0)) page.
+1. Go to the [Releases](https://github.com/pashakih/ConstellationDrawer/releases/tag/v1.0.0) page.
 2. Download `ConstellationDrawer.dmg`.
 3. Open the `.dmg` file and drag **Constellation Drawer** into your **Applications** folder.
 4. *Note:* Because this app is self-signed, the first time you run it, **right-click (or Control-click) the app icon and select "Open"** to bypass macOS Gatekeeper.
