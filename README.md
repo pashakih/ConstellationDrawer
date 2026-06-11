@@ -34,4 +34,4 @@ If you want to run or modify the raw code:
    ```bash
    python constellation_drawer.py
    ```
-*Note: for this, you need to have Python3 installed, and be ready to use terminal and perhaps fix issuses. If you want simple open-and-play, I recommend that you download the app: [Download now for MacOS!](https://github.com/pashakih/ConstellationDrawer/releases/tag/v1.1.0)*
+*Note: for this, you need to have Python3 installed, and be ready to use terminal and perhaps fix issuses. If you want simple open-and-play, I recommend that you download the app: [Download now for MacOS!](https://github.com/pashakih/ConstellationDrawer/releases/tag/v1.2.0)*
