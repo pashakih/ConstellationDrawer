@@ -4,7 +4,7 @@ Welcome to Constellation Drawer, the ultimate application for creating scientifi
 
 # 1. Setting the Scene
 
-Before you start drawing, you need to tell the app where and when you are looking.
+*Before you start drawing, you need to tell the app where and when you are looking.*
 
 **Observer Location:** Enter the Latitude and Longitude of your viewing spot. You can use decimal degrees (e.g., 40.7128 for NYC). Alternatively, click Use My Location to instantly ping your IP address and fill in your current coordinates.
 
@@ -14,7 +14,7 @@ Before you start drawing, you need to tell the app where and when you are lookin
 
 # 2. Display Settings & Aesthetics
 
-Open the 'Show Advanced Features ▼' drawer to fully customize the look of your map.
+*Open the 'Show Advanced Features ▼' drawer to fully customize the look of your map.*
 
 **Limiting Magnitude:** Controls how many stars are visible. A lower number (like 4.0) shows only the brightest stars, great for minimal city-sky maps. A higher number (like 6.5) shows thousands of faint stars.
 
@@ -26,7 +26,7 @@ Open the 'Show Advanced Features ▼' drawer to fully customize the look of your
 
 # 3. The Solar System & Moon Phases
 
-Want to plot the wandering planets?
+*Want to plot the wandering planets?*
 
 Check Show Solar System Objects in the Advanced drawer.
 
@@ -42,7 +42,7 @@ Scale them automatically by magnitude ("Relative Scale") or set your own size ("
 
 # 4. Custom Points (Comets, Galaxies, & Radiants)
 
-If an object isn't in the standard star catalog, you can add it manually using the Custom Point Adder.
+*If an object isn't in the standard star catalog, you can add it manually using the Custom Point Adder.*
 
 Enter a Name (e.g., "Comet NEOWISE").
 
